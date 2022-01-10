@@ -1,5 +1,5 @@
 # Maze-Self-Exploring-Bot-With-Reinforcement-Learning
-This is my topic in my final year project. Although I finished my degree study, I still continue to work on this project because I believe there is a room for the improvement so that in future I can further improve the bot performance.
+This is my topic in my final year project. Although I finished my degree study, I still continue to work on this project because I believe there is a room for the improvement so that in future I can further improve the bot performance. Conference paper is attached, you can have a look if you are interested.
 <br>
 <h3>Pre-requisites to run the malmo</h3>
 In order to pip3 install malmo there are some environment and OS dependency requirements that have to be met:
